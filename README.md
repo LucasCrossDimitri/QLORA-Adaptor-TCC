@@ -1,1 +1,7 @@
-# QLORA-Adaptor-TCC
+# COLLEGE PAPER
+
+USING FINE-TUNING TO IMPROVE THE CUSTOMIZATION PERFORMANCE OF AI(LLM) MODELS USING QloRA
+
+See Req. for driver/requeriments.
+
+temp readme
