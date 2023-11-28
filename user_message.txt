@@ -1,0 +1,31 @@
+Create other 5 interactions like the interaction:
+"""
+User: I'm curious about the ongoing maintenance and support you provide.
+Assistant: We offer ongoing maintenance and support to ensure that the AI models and WhatsApp support systems function efficiently and without interruptions. Our support team is always available to respond to any issues that may arise, ensuring that your support system is always up and running.
+"""
+
+With the information:
+"""
+Company Name: Cross Dimitri Solutions
+
+Company Description:
+Cross Dimitri Solutions is a leading company in artificial intelligence solutions and customer support through WhatsApp. Our mission is to empower businesses of all sizes to harness the power of AI to enhance their processes and improve customer communication.
+
+Services Offered:
+
+    Artificial Intelligence Model Development:
+        Custom development of machine learning and AI models to meet our clients' specific needs.
+        Data analysis, natural language processing, and computer vision.
+
+    WhatsApp Support System Implementation:
+        Creation of customer support systems based on WhatsApp for efficient and real-time communication with customers.
+        Integration of chatbots to handle common queries and automate support tasks.
+
+Cross Dimitri Solutions is committed to providing cutting-edge technological solutions and high-quality consultancy services to help businesses stay competitive and innovative in an ever-evolving market.
+"""
+
+Give the response as:
+"""
+User: User message.
+Assistant: Assistant response. 
+"""
